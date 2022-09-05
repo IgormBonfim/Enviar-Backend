@@ -1,0 +1,12 @@
+C:\Users\igor.bonfim\Desktop\AutoPlay\Cursos\Backend\Autoplay.DataTransfer\bin\Debug\net6.0\Autoplay.DataTransfer.deps.json
+C:\Users\igor.bonfim\Desktop\AutoPlay\Cursos\Backend\Autoplay.DataTransfer\bin\Debug\net6.0\Autoplay.DataTransfer.dll
+C:\Users\igor.bonfim\Desktop\AutoPlay\Cursos\Backend\Autoplay.DataTransfer\bin\Debug\net6.0\ref\Autoplay.DataTransfer.dll
+C:\Users\igor.bonfim\Desktop\AutoPlay\Cursos\Backend\Autoplay.DataTransfer\bin\Debug\net6.0\Autoplay.DataTransfer.pdb
+C:\Users\igor.bonfim\Desktop\AutoPlay\Cursos\Backend\Autoplay.DataTransfer\obj\Debug\net6.0\Autoplay.DataTransfer.csproj.AssemblyReference.cache
+C:\Users\igor.bonfim\Desktop\AutoPlay\Cursos\Backend\Autoplay.DataTransfer\obj\Debug\net6.0\Autoplay.DataTransfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igor.bonfim\Desktop\AutoPlay\Cursos\Backend\Autoplay.DataTransfer\obj\Debug\net6.0\Autoplay.DataTransfer.AssemblyInfoInputs.cache
+C:\Users\igor.bonfim\Desktop\AutoPlay\Cursos\Backend\Autoplay.DataTransfer\obj\Debug\net6.0\Autoplay.DataTransfer.AssemblyInfo.cs
+C:\Users\igor.bonfim\Desktop\AutoPlay\Cursos\Backend\Autoplay.DataTransfer\obj\Debug\net6.0\Autoplay.DataTransfer.csproj.CoreCompileInputs.cache
+C:\Users\igor.bonfim\Desktop\AutoPlay\Cursos\Backend\Autoplay.DataTransfer\obj\Debug\net6.0\Autoplay.DataTransfer.dll
+C:\Users\igor.bonfim\Desktop\AutoPlay\Cursos\Backend\Autoplay.DataTransfer\obj\Debug\net6.0\ref\Autoplay.DataTransfer.dll
+C:\Users\igor.bonfim\Desktop\AutoPlay\Cursos\Backend\Autoplay.DataTransfer\obj\Debug\net6.0\Autoplay.DataTransfer.pdb
