@@ -1,0 +1,12 @@
+C:\Users\igor.bonfim\Desktop\AutoPlay\Cursos\Backend\Autoplay.Aplicacao\bin\Debug\net6.0\Autoplay.Aplicacao.deps.json
+C:\Users\igor.bonfim\Desktop\AutoPlay\Cursos\Backend\Autoplay.Aplicacao\bin\Debug\net6.0\Autoplay.Aplicacao.dll
+C:\Users\igor.bonfim\Desktop\AutoPlay\Cursos\Backend\Autoplay.Aplicacao\bin\Debug\net6.0\ref\Autoplay.Aplicacao.dll
+C:\Users\igor.bonfim\Desktop\AutoPlay\Cursos\Backend\Autoplay.Aplicacao\bin\Debug\net6.0\Autoplay.Aplicacao.pdb
+C:\Users\igor.bonfim\Desktop\AutoPlay\Cursos\Backend\Autoplay.Aplicacao\obj\Debug\net6.0\Autoplay.Aplicacao.csproj.AssemblyReference.cache
+C:\Users\igor.bonfim\Desktop\AutoPlay\Cursos\Backend\Autoplay.Aplicacao\obj\Debug\net6.0\Autoplay.Aplicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igor.bonfim\Desktop\AutoPlay\Cursos\Backend\Autoplay.Aplicacao\obj\Debug\net6.0\Autoplay.Aplicacao.AssemblyInfoInputs.cache
+C:\Users\igor.bonfim\Desktop\AutoPlay\Cursos\Backend\Autoplay.Aplicacao\obj\Debug\net6.0\Autoplay.Aplicacao.AssemblyInfo.cs
+C:\Users\igor.bonfim\Desktop\AutoPlay\Cursos\Backend\Autoplay.Aplicacao\obj\Debug\net6.0\Autoplay.Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\igor.bonfim\Desktop\AutoPlay\Cursos\Backend\Autoplay.Aplicacao\obj\Debug\net6.0\Autoplay.Aplicacao.dll
+C:\Users\igor.bonfim\Desktop\AutoPlay\Cursos\Backend\Autoplay.Aplicacao\obj\Debug\net6.0\ref\Autoplay.Aplicacao.dll
+C:\Users\igor.bonfim\Desktop\AutoPlay\Cursos\Backend\Autoplay.Aplicacao\obj\Debug\net6.0\Autoplay.Aplicacao.pdb
